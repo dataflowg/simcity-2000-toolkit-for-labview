@@ -14,7 +14,7 @@ This repository doesn't include the SimCity 2000 game music, and needs to be dow
 Other MP3 files can also be added to the `Music` folder to be included in the random music playback.
 
 ## Usage
-The toolkit can be started from the `Tools->SimCity 2000 Toolkit` menu.
+The toolkit can be started from LabVIEW's `Tools->SimCity 2000 Toolkit` menu.
 
 Once the toolkit is open, music will play at random intervals. Change the song by clicking the Random Song button. Disasters are not enabled by default.
 
