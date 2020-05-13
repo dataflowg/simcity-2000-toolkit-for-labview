@@ -6,7 +6,9 @@ Click the image below to see a short video of it in action.
 [![SimCity 2000 Toolkit For LabVIEW - Click for video](images/main.png?raw=true)](https://www.youtube.com/watch?v=EvenOJnmjzY "SimCity 2000 Toolkit For LabVIEW - Click for video")
 
 ## Installation
-Download the source and place the `SimCity 2000 Toolkit` folder in the `<Program Files>\National Instruments\LabVIEW 20xx\project` path, then restart LabVIEW.
+Download the repository and place the `SimCity 2000 Toolkit` folder in the `<Program Files>\National Instruments\LabVIEW 20xx\project` path, then restart LabVIEW.
+
+The project requires LabVIEW 2019 or newer, and works with LabVIEW Community Edition.
 
 ### Music
 This repository doesn't include the SimCity 2000 game music, and needs to be downloaded separately. The MP3 soundtrack can be found on [archive.org](https://archive.org/details/SimCity2000Soundtrack) (choose the *VBR MP3* download option - [direct link](https://archive.org/compress/SimCity2000Soundtrack/formats=VBR%20MP3&file=/SimCity2000Soundtrack.zip)), then extract the files to the `SimCity 2000 Toolkit\_Assets\Music` folder. The next time the SimCity 2000 Toolkit is run, the MP3 files will be renamed, and the Disaster Decision song moved to the `Disasters` sub-folder.
