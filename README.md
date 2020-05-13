@@ -2,6 +2,7 @@
 A toolkit which adds some SimCity 2000 fun to the LabVIEW development environment, including disasters!
 
 Click the image below to see a short video of it in action.
+
 [![SimCity 2000 Toolkit For LabVIEW - Click for video](images/main.png?raw=true)](https://www.youtube.com/watch?v=EvenOJnmjzY "SimCity 2000 Toolkit For LabVIEW - Click for video")
 
 ## Installation
@@ -21,22 +22,26 @@ Once the toolkit is open, music will play at random intervals. Change the song b
 *It goes without saying, disasters will destroy your code. Make sure you have backups! The disasters will only affect open block diagrams. The tornado and UFO will target any visible block diagram underneath them, regardless if it has focus or is partially visible. If you can see the code, so can they!*
 
 Before disasters can be enabled, a confirmation dialog will appear asking you to verify that you really do want to proceed. Type in **disasters** to continue.
+
 ![Disaster confirmation](images/enable_disasters.png?raw=true)
 
 ### Earthquake
 When this seismic disaster strikes, the block diagram is shaken violently back and forth for several seconds. Each object on the block diagram has a 20% chance of destruction. Affects the top most open block diagram only.
 
 ### Tornado
+
 ![Tornado](images/tornado.gif?raw=true)
 
 This high velocity vortex moves across the screen, sending any objects it comes into contact with into a spin. Some unlucky objects won't survive the sudden changes in angular momentum and will be destroyed instantly. Affects any visible block diagram.
 
 ### UFO
+
 ![UFO](images/ufo.png?raw=true)
 
 This eyeball with legs slowly hovers down the screen, destroying any objects that come into contact with its death ray. Affects any visible block diagram.
 
 ### Apocalypse
+
 ![Apocalypse](images/heptagram_labview_small.png?raw=true)
 
 The demonic LabVIEW spirit is summoned from the underworld, before a hell fire is unleashed across all open block diagrams. Every object will be incinerated before the demon spirit returns to the underworld in characteristic fashion. Affects all open block diagrams, followed by a LabVIEW crash.
