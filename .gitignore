@@ -1,0 +1,89 @@
+# =========================
+# Project Specific
+# =========================
+# Music files need to be manually added
+SimCity2000Soundtrack.zip
+Bluesy Berg.mp3
+Chinatown Concerto.mp3
+City Shimmy.mp3
+Disaster Decision.mp3
+Downtown Dance.mp3
+Harboy Hymn.mp3
+Mayor Mambo.mp3
+Railroad Rap.mp3
+Repetition Rendition.mp3
+Serious Sims.mp3
+SimCity Segue.mp3
+SimCity2000Soundtrack.zip
+Subway Song.mp3
+Traffic Trouble.mp3
+Virtual Village.mp3
+01_SimCitySegue_SimCity2000.mp3
+02_MayorMambo_SimCity2000.mp3
+03_DowntownDance_SimCity2000.mp3
+04_CityShimmy_SimCity2000.mp3
+05_VirtualVillage_SimCity2000.mp3
+06_RailroadRap_SimCity2000.mp3
+07_TrafficTrouble_SimCity2000.mp3
+08_SubwaySong_SimCity2000.mp3
+09_ChinatownConcerto_SimCity2000.mp3
+10_HarboyHymn_SimCity2000.mp3
+11_RepetitionRendition_SimCity2000.mp3
+12_DisasterDecision_SimCity2000.mp3
+13_SeriousSims_SimCity2000.mp3
+14_BluesyBerg_SimCity2000.mp3
+
+# =========================
+# LabVIEW Files
+# =========================
+# Metadata
+*.aliases
+*.lvlps
+
+# Builds
+[Bb]uilds/
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
